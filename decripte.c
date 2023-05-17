@@ -13,9 +13,5 @@ int main(){
     gets(massage);
     decript(massage);
     printf("Your Decripted SMS is :%s" , massage);
-
-    int i;
-    printf("\nDone\n");
-    scanf("%d" , i);
     return 0;
 }
